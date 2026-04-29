@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://multilogin-ads-safe.github.io/sitemap.xml
